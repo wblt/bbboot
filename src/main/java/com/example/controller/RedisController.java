@@ -59,6 +59,7 @@ public class RedisController {
 		u2.setName("hello imooc");
 		u2.setPassword("123456");
 		u2.setBirthday(new Date());
+		
 
 		List<User> userList = new ArrayList<>();
 		userList.add(user);
